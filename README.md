@@ -1,2 +1,2 @@
-# threejs
+# threejs + OpenAI
  
